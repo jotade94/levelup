@@ -1,0 +1,1555 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BoldThemes
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-15 13:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: eventim.php:13
+msgid "Header Left Widgets"
+msgstr ""
+
+#: eventim.php:17
+msgid "Header Right Widgets"
+msgstr ""
+
+#: eventim.php:23
+msgid "Footer Widgets"
+msgstr ""
+
+#: eventim.php:1693
+msgid "dys"
+msgstr ""
+
+#: eventim.php:1694
+msgid "hrs"
+msgstr ""
+
+#: eventim.php:1695
+msgid "min"
+msgstr ""
+
+#: eventim.php:1696
+msgid "sec"
+msgstr ""
+
+#: eventim.php:2174 eventim.php:2430 eventim.php:3939
+msgid "by"
+msgstr ""
+
+#: eventim.php:2315
+msgid "Category filter:"
+msgstr ""
+
+#: eventim.php:2316
+msgid "All"
+msgstr ""
+
+#: eventim.php:2325
+msgid "No more posts"
+msgstr ""
+
+#: eventim.php:2579 eventim.php:2581 eventim.php:2911 eventim.php:3068
+msgid "Image"
+msgstr ""
+
+#: eventim.php:2579
+msgid "Single image"
+msgstr ""
+
+#: eventim.php:2582
+msgid "Caption Supetitle"
+msgstr ""
+
+#: eventim.php:2583
+msgid "Caption"
+msgstr ""
+
+#: eventim.php:2584
+msgid "Show Captions"
+msgstr ""
+
+#: eventim.php:2586 eventim.php:2615 eventim.php:2625 eventim.php:2641
+#: eventim.php:2653 eventim.php:2738 eventim.php:2743 eventim.php:2778
+#: eventim.php:2783 eventim.php:2822 eventim.php:2874 eventim.php:2932
+#: eventim.php:2947 eventim.php:3013 eventim.php:3048 eventim.php:3053
+#: eventim.php:3058 eventim.php:3078 eventim.php:3088 eventim.php:3098
+#: eventim.php:3133 eventim.php:3168 eventim.php:3173 eventim.php:3178
+#: eventim.php:3198 eventim.php:3225 eventim.php:3235 eventim.php:3240
+msgid "No"
+msgstr ""
+
+#: eventim.php:2587 eventim.php:2642 eventim.php:2654 eventim.php:2739
+#: eventim.php:2744 eventim.php:2779 eventim.php:2784 eventim.php:2933
+#: eventim.php:3014 eventim.php:3049 eventim.php:3054 eventim.php:3059
+#: eventim.php:3099 eventim.php:3167 eventim.php:3172 eventim.php:3177
+#: eventim.php:3199 eventim.php:3226 eventim.php:3236 eventim.php:3241
+msgid "Yes"
+msgstr ""
+
+#: eventim.php:2589
+msgid "Size (e.g. thumbnail, medium, large, full)"
+msgstr ""
+
+#: eventim.php:2590
+msgid "Shape"
+msgstr ""
+
+#: eventim.php:2592
+msgid "Square"
+msgstr ""
+
+#: eventim.php:2593
+msgid "Circle"
+msgstr ""
+
+#: eventim.php:2595 eventim.php:2870 eventim.php:2912 eventim.php:2944
+#: eventim.php:3130
+msgid "URL"
+msgstr ""
+
+#: eventim.php:2596
+msgid "Target"
+msgstr ""
+
+#: eventim.php:2598 eventim.php:2948 eventim.php:3134
+msgid "Self"
+msgstr ""
+
+#: eventim.php:2599 eventim.php:2949 eventim.php:3135
+msgid "Blank"
+msgstr ""
+
+#: eventim.php:2601 eventim.php:2669 eventim.php:2676 eventim.php:2683
+#: eventim.php:2691 eventim.php:2750 eventim.php:2801 eventim.php:2827
+#: eventim.php:2878 eventim.php:2894 eventim.php:2935 eventim.php:2985
+#: eventim.php:2998 eventim.php:3016 eventim.php:3031 eventim.php:3061
+#: eventim.php:3069 eventim.php:3101 eventim.php:3139 eventim.php:3146
+#: eventim.php:3180 eventim.php:3243 eventim.php:3277 eventim.php:3290
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: eventim.php:2602 eventim.php:2670 eventim.php:2677 eventim.php:2684
+#: eventim.php:2692 eventim.php:2751 eventim.php:2802 eventim.php:2828
+#: eventim.php:2879 eventim.php:2895 eventim.php:2936 eventim.php:2986
+#: eventim.php:2999 eventim.php:3017 eventim.php:3032 eventim.php:3062
+#: eventim.php:3070 eventim.php:3102 eventim.php:3140 eventim.php:3147
+#: eventim.php:3181 eventim.php:3244 eventim.php:3278 eventim.php:3291
+msgid "Inline Style"
+msgstr ""
+
+#: eventim.php:2606
+msgid "Section"
+msgstr ""
+
+#: eventim.php:2606
+msgid "Basic root element"
+msgstr ""
+
+#: eventim.php:2608
+msgid "Layout"
+msgstr ""
+
+#: eventim.php:2610
+msgid "Boxed"
+msgstr ""
+
+#: eventim.php:2611
+msgid "Wide"
+msgstr ""
+
+#: eventim.php:2613 eventim.php:3076
+msgid "Top spaced"
+msgstr ""
+
+#: eventim.php:2616 eventim.php:2626 eventim.php:3079 eventim.php:3089
+msgid "Extra-Small-Spaced"
+msgstr ""
+
+#: eventim.php:2617 eventim.php:2627 eventim.php:3080 eventim.php:3090
+msgid "Small-Spaced"
+msgstr ""
+
+#: eventim.php:2618 eventim.php:2628 eventim.php:3081 eventim.php:3091
+msgid "Semi-Spaced"
+msgstr ""
+
+#: eventim.php:2619 eventim.php:2629 eventim.php:3082 eventim.php:3092
+msgid "Spaced"
+msgstr ""
+
+#: eventim.php:2620 eventim.php:2630 eventim.php:3083 eventim.php:3093
+msgid "Large Spaced"
+msgstr ""
+
+#: eventim.php:2621
+msgid "Extra-Large Spaced"
+msgstr ""
+
+#: eventim.php:2623 eventim.php:3086
+msgid "Bottom spaced"
+msgstr ""
+
+#: eventim.php:2631 eventim.php:3084 eventim.php:3094
+msgid "Extra-Spaced"
+msgstr ""
+
+#: eventim.php:2633
+msgid "Skin"
+msgstr ""
+
+#: eventim.php:2635 eventim.php:2646 eventim.php:2706 eventim.php:2771
+msgid "Inherit"
+msgstr ""
+
+#: eventim.php:2636
+msgid "Dark"
+msgstr ""
+
+#: eventim.php:2637 eventim.php:2970
+msgid "Light"
+msgstr ""
+
+#: eventim.php:2639
+msgid "Full Screen"
+msgstr ""
+
+#: eventim.php:2644 eventim.php:2704 eventim.php:2769
+msgid "Vertical Align"
+msgstr ""
+
+#: eventim.php:2647 eventim.php:2707 eventim.php:2772 eventim.php:2823
+#: eventim.php:2951 eventim.php:3137
+msgid "Top"
+msgstr ""
+
+#: eventim.php:2648 eventim.php:2708 eventim.php:2773
+msgid "Middle"
+msgstr ""
+
+#: eventim.php:2649 eventim.php:2709 eventim.php:2774 eventim.php:2824
+#: eventim.php:2875
+msgid "Bottom"
+msgstr ""
+
+#: eventim.php:2651
+msgid "Divider"
+msgstr ""
+
+#: eventim.php:2656
+msgid "Background Image"
+msgstr ""
+
+#: eventim.php:2657 eventim.php:2746 eventim.php:2799
+msgid "Background color"
+msgstr ""
+
+#: eventim.php:2658
+msgid "YouTube Background Video"
+msgstr ""
+
+#: eventim.php:2659
+msgid "Video Settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: eventim.php:2660
+msgid "MP4 Background Video"
+msgstr ""
+
+#: eventim.php:2661
+msgid "Ogg Background Video"
+msgstr ""
+
+#: eventim.php:2662
+msgid "WebM Background Video"
+msgstr ""
+
+#: eventim.php:2663
+msgid "Parallax (e.g. -.7)"
+msgstr ""
+
+#: eventim.php:2664
+msgid "Parallax Offset in px (e.g. -100)"
+msgstr ""
+
+#: eventim.php:2665
+msgid "Animation (forward)"
+msgstr ""
+
+#: eventim.php:2666
+msgid "Animation (backward)"
+msgstr ""
+
+#: eventim.php:2667
+msgid "Impress Animation Settings"
+msgstr ""
+
+#: eventim.php:2668
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: eventim.php:2674
+msgid "Row"
+msgstr ""
+
+#: eventim.php:2674
+msgid "Row element"
+msgstr ""
+
+#: eventim.php:2681
+msgid "Inner Row"
+msgstr ""
+
+#: eventim.php:2681
+msgid "Inner Row element"
+msgstr ""
+
+#: eventim.php:2688
+msgid "Custom Menu"
+msgstr ""
+
+#: eventim.php:2690
+msgid "Menu Name"
+msgstr ""
+
+#: eventim.php:2696
+msgid "Column"
+msgstr ""
+
+#: eventim.php:2696
+msgid "Column element"
+msgstr ""
+
+#: eventim.php:2698 eventim.php:2757
+msgid "Align"
+msgstr ""
+
+#: eventim.php:2700 eventim.php:2714 eventim.php:2759 eventim.php:2963
+msgid "Left"
+msgstr ""
+
+#: eventim.php:2701 eventim.php:2715 eventim.php:2760 eventim.php:2961
+msgid "Right"
+msgstr ""
+
+#: eventim.php:2702 eventim.php:2761
+msgid "Center"
+msgstr ""
+
+#: eventim.php:2711 eventim.php:3096
+msgid "Border"
+msgstr ""
+
+#: eventim.php:2713
+msgid "No Border"
+msgstr ""
+
+#: eventim.php:2717 eventim.php:2763
+msgid "Padding"
+msgstr ""
+
+#: eventim.php:2719 eventim.php:2765 eventim.php:2852 eventim.php:2858
+#: eventim.php:3112 eventim.php:3118
+msgid "Default"
+msgstr ""
+
+#: eventim.php:2720 eventim.php:2766
+msgid "No padding"
+msgstr ""
+
+#: eventim.php:2721 eventim.php:2767
+msgid "Double padding"
+msgstr ""
+
+#: eventim.php:2723 eventim.php:2786
+msgid "Animation"
+msgstr ""
+
+#: eventim.php:2725 eventim.php:2788
+msgid "No Animation"
+msgstr ""
+
+#: eventim.php:2726 eventim.php:2789
+msgid "Fade In"
+msgstr ""
+
+#: eventim.php:2727 eventim.php:2790
+msgid "Move Up"
+msgstr ""
+
+#: eventim.php:2728 eventim.php:2791
+msgid "Move Left"
+msgstr ""
+
+#: eventim.php:2729 eventim.php:2792
+msgid "Move Right"
+msgstr ""
+
+#: eventim.php:2730 eventim.php:2793
+msgid "Move Down"
+msgstr ""
+
+#: eventim.php:2731 eventim.php:2794
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: eventim.php:2732 eventim.php:2795
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: eventim.php:2733 eventim.php:2796
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: eventim.php:2734 eventim.php:2797
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: eventim.php:2736 eventim.php:2781
+msgid "Text indent"
+msgstr ""
+
+#: eventim.php:2741
+msgid "Cell highlight"
+msgstr ""
+
+#: eventim.php:2747
+msgid "Transparent (e.g. 0.4)"
+msgstr ""
+
+#: eventim.php:2748
+msgid "Inner Background color"
+msgstr ""
+
+#: eventim.php:2749
+msgid "Background image"
+msgstr ""
+
+#: eventim.php:2755
+msgid "Inner Column"
+msgstr ""
+
+#: eventim.php:2755
+msgid "Inner Column element"
+msgstr ""
+
+#: eventim.php:2776
+msgid "Highlight"
+msgstr ""
+
+#: eventim.php:2800
+msgid "Opacity (0 - 1, e.g. 0.4)"
+msgstr ""
+
+#: eventim.php:2806 eventim.php:2877 eventim.php:2942 eventim.php:3023
+msgid "Text"
+msgstr ""
+
+#: eventim.php:2806
+msgid "Text element"
+msgstr ""
+
+#: eventim.php:2808
+msgid "Header"
+msgstr ""
+
+#: eventim.php:2808
+msgid "Header element"
+msgstr ""
+
+#: eventim.php:2810
+msgid "Superheadline"
+msgstr ""
+
+#: eventim.php:2811 eventim.php:2835 eventim.php:2843 eventim.php:2871
+msgid "Headline"
+msgstr ""
+
+#: eventim.php:2812
+msgid "Headline Size"
+msgstr ""
+
+#: eventim.php:2814 eventim.php:2864 eventim.php:2974 eventim.php:3041
+#: eventim.php:3124
+msgid "Small"
+msgstr ""
+
+#: eventim.php:2815 eventim.php:2866 eventim.php:2976 eventim.php:3042
+#: eventim.php:3126
+msgid "Medium"
+msgstr ""
+
+#: eventim.php:2816 eventim.php:2868 eventim.php:2996 eventim.php:3009
+#: eventim.php:3043 eventim.php:3128
+msgid "Large"
+msgstr ""
+
+#: eventim.php:2817
+msgid "Extra large"
+msgstr ""
+
+#: eventim.php:2818
+msgid "Huge"
+msgstr ""
+
+#: eventim.php:2820 eventim.php:2872
+msgid "Dash"
+msgstr ""
+
+#: eventim.php:2826
+msgid "Subheadline"
+msgstr ""
+
+#: eventim.php:2832
+msgid "Tabs"
+msgstr ""
+
+#: eventim.php:2832
+msgid "Tabs container"
+msgstr ""
+
+#: eventim.php:2834
+msgid "Tab Item"
+msgstr ""
+
+#: eventim.php:2834
+msgid "Tabs items"
+msgstr ""
+
+#: eventim.php:2839
+msgid "Accordion"
+msgstr ""
+
+#: eventim.php:2839
+msgid "Accordion container"
+msgstr ""
+
+#: eventim.php:2841
+msgid "Accordion Item"
+msgstr ""
+
+#: eventim.php:2841
+msgid "Single accordion element"
+msgstr ""
+
+#: eventim.php:2847
+msgid "Service"
+msgstr ""
+
+#: eventim.php:2847
+msgid "Service element"
+msgstr ""
+
+#: eventim.php:2849 eventim.php:2888 eventim.php:2943 eventim.php:3106
+#: eventim.php:3108
+msgid "Icon"
+msgstr ""
+
+#: eventim.php:2850 eventim.php:3110
+msgid "Icon Type"
+msgstr ""
+
+#: eventim.php:2853 eventim.php:2956 eventim.php:3028 eventim.php:3113
+msgid "Filled"
+msgstr ""
+
+#: eventim.php:2854 eventim.php:2955 eventim.php:3114
+msgid "Outline"
+msgstr ""
+
+#: eventim.php:2856 eventim.php:3116
+msgid "Icon Color"
+msgstr ""
+
+#: eventim.php:2859 eventim.php:2968 eventim.php:3119
+msgid "Accent"
+msgstr ""
+
+#: eventim.php:2860 eventim.php:2969 eventim.php:3120
+msgid "Alternate"
+msgstr ""
+
+#: eventim.php:2862 eventim.php:3122
+msgid "Icon Size"
+msgstr ""
+
+#: eventim.php:2865 eventim.php:2975 eventim.php:3125
+msgid "Extra Small"
+msgstr ""
+
+#: eventim.php:2867 eventim.php:2977 eventim.php:3127
+msgid "Big"
+msgstr ""
+
+#: eventim.php:2883
+msgid "Google Maps"
+msgstr ""
+
+#: eventim.php:2883
+msgid "Google Maps with marker on specified coordinates"
+msgstr ""
+
+#: eventim.php:2885
+msgid "Latitude"
+msgstr ""
+
+#: eventim.php:2886
+msgid "Longitude"
+msgstr ""
+
+#: eventim.php:2887
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: eventim.php:2889
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: eventim.php:2890
+msgid "Map primary color"
+msgstr ""
+
+#: eventim.php:2891
+msgid "Map secondary color"
+msgstr ""
+
+#: eventim.php:2892
+msgid "Map water color"
+msgstr ""
+
+#: eventim.php:2893
+msgid "Custom map style array"
+msgstr ""
+
+#: eventim.php:2899
+msgid "Simple slider"
+msgstr ""
+
+#: eventim.php:2901 eventim.php:2925
+msgid "Type"
+msgstr ""
+
+#: eventim.php:2903 eventim.php:2927 eventim.php:3036
+msgid "Slider"
+msgstr ""
+
+#: eventim.php:2904 eventim.php:2928
+msgid "Regular"
+msgstr ""
+
+#: eventim.php:2909
+msgid "Simple slider item"
+msgstr ""
+
+#: eventim.php:2916 eventim.php:4205
+msgid "Twitter"
+msgstr ""
+
+#: eventim.php:2916
+msgid "Twitter posts"
+msgstr ""
+
+#: eventim.php:2918
+msgid "Number of Tweets"
+msgstr ""
+
+#: eventim.php:2919
+msgid "Username"
+msgstr ""
+
+#: eventim.php:2920
+msgid "Cache (minutes)"
+msgstr ""
+
+#: eventim.php:2921
+msgid "Consumer Key"
+msgstr ""
+
+#: eventim.php:2922
+msgid "Consumer Secret"
+msgstr ""
+
+#: eventim.php:2923
+msgid "Access Token"
+msgstr ""
+
+#: eventim.php:2924
+msgid "Access Token Secret"
+msgstr ""
+
+#: eventim.php:2930
+msgid "Show avatar"
+msgstr ""
+
+#: eventim.php:2940
+msgid "Button"
+msgstr ""
+
+#: eventim.php:2940
+msgid "Button with custom link"
+msgstr ""
+
+#: eventim.php:2945 eventim.php:3131
+msgid "Target window"
+msgstr ""
+
+#: eventim.php:2950 eventim.php:3136
+msgid "Parent"
+msgstr ""
+
+#: eventim.php:2953 eventim.php:3026
+msgid "Style"
+msgstr ""
+
+#: eventim.php:2957
+msgid "Borderless"
+msgstr ""
+
+#: eventim.php:2959
+msgid "Icon Position"
+msgstr ""
+
+#: eventim.php:2962
+msgid "Inline"
+msgstr ""
+
+#: eventim.php:2965 eventim.php:3025
+msgid "Color"
+msgstr ""
+
+#: eventim.php:2967 eventim.php:2982 eventim.php:2995 eventim.php:3008
+msgid "Normal"
+msgstr ""
+
+#: eventim.php:2972 eventim.php:2993 eventim.php:3006
+msgid "Size"
+msgstr ""
+
+#: eventim.php:2980
+msgid "Width"
+msgstr ""
+
+#: eventim.php:2983
+msgid "Full"
+msgstr ""
+
+#: eventim.php:2990
+msgid "Counter"
+msgstr ""
+
+#: eventim.php:2990
+msgid "Animated counter"
+msgstr ""
+
+#: eventim.php:2992
+msgid "Number"
+msgstr ""
+
+#: eventim.php:3003
+msgid "Countdown"
+msgstr ""
+
+#: eventim.php:3003
+msgid "Animated countdown"
+msgstr ""
+
+#: eventim.php:3005
+msgid "Target Date and Time"
+msgstr ""
+
+#: eventim.php:3005
+msgid "YY-mm-dd HH:mm:ss, e.g. 2015-02-22 22:45:00"
+msgstr ""
+
+#: eventim.php:3011
+msgid "Hide Indication"
+msgstr ""
+
+#: eventim.php:3011
+msgid "Hide indication of days, hours, minutes and seconds"
+msgstr ""
+
+#: eventim.php:3021
+msgid "Percentage bar"
+msgstr ""
+
+#: eventim.php:3021
+msgid "Animated percentage bar"
+msgstr ""
+
+#: eventim.php:3024
+msgid "Percentage"
+msgstr ""
+
+#: eventim.php:3029
+msgid "Line"
+msgstr ""
+
+#: eventim.php:3036
+msgid "Slider container"
+msgstr ""
+
+#: eventim.php:3038
+msgid "Slider height"
+msgstr ""
+
+#: eventim.php:3040
+msgid "Auto"
+msgstr ""
+
+#: eventim.php:3045
+msgid "Auto Play Speed (e.g. 3000)"
+msgstr ""
+
+#: eventim.php:3046
+msgid "Hide Arrows"
+msgstr ""
+
+#: eventim.php:3051
+msgid "Hide Paging"
+msgstr ""
+
+#: eventim.php:3056
+msgid "Simple Arrows"
+msgstr ""
+
+#: eventim.php:3066
+msgid "Slider Item"
+msgstr ""
+
+#: eventim.php:3066
+msgid "Individual slide element"
+msgstr ""
+
+#: eventim.php:3074
+msgid "Separator"
+msgstr ""
+
+#: eventim.php:3074
+msgid "Horizontal separator"
+msgstr ""
+
+#: eventim.php:3106
+msgid "Single icon with link"
+msgstr ""
+
+#: eventim.php:3109 eventim.php:3284
+msgid "Title"
+msgstr ""
+
+#: eventim.php:3144
+msgid "Icon and images holder"
+msgstr ""
+
+#: eventim.php:3144
+msgid "Icon container"
+msgstr ""
+
+#: eventim.php:3151
+msgid "Latest Posts"
+msgstr ""
+
+#: eventim.php:3151
+msgid "Recent posts"
+msgstr ""
+
+#: eventim.php:3153
+msgid "Number of Items"
+msgstr ""
+
+#: eventim.php:3154 eventim.php:3195
+msgid "Category Slug"
+msgstr ""
+
+#: eventim.php:3155
+msgid "Format"
+msgstr ""
+
+#: eventim.php:3157
+msgid "Horizontal"
+msgstr ""
+
+#: eventim.php:3158
+msgid "Vertical"
+msgstr ""
+
+#: eventim.php:3160 eventim.php:3228
+msgid "Post Type"
+msgstr ""
+
+#: eventim.php:3162 eventim.php:3230
+msgid "Blog"
+msgstr ""
+
+#: eventim.php:3163 eventim.php:3231 eventim.php:4299
+msgid "Portfolio"
+msgstr ""
+
+#: eventim.php:3165
+msgid "Show Excerpt"
+msgstr ""
+
+#: eventim.php:3170
+msgid "Show Date"
+msgstr ""
+
+#: eventim.php:3175
+msgid "Show Author"
+msgstr ""
+
+#: eventim.php:3185
+msgid "Grid"
+msgstr ""
+
+#: eventim.php:3185
+msgid "Grid with recent posts"
+msgstr ""
+
+#: eventim.php:3187
+msgid "Number of items"
+msgstr ""
+
+#: eventim.php:3188 eventim.php:3269
+msgid "Columns"
+msgstr ""
+
+#: eventim.php:3190 eventim.php:3211 eventim.php:3258 eventim.php:3271
+msgid "3"
+msgstr ""
+
+#: eventim.php:3191 eventim.php:3212 eventim.php:3259 eventim.php:3272
+msgid "4"
+msgstr ""
+
+#: eventim.php:3192 eventim.php:3213 eventim.php:3260 eventim.php:3273
+msgid "5"
+msgstr ""
+
+#: eventim.php:3193 eventim.php:3214 eventim.php:3261 eventim.php:3274
+msgid "6"
+msgstr ""
+
+#: eventim.php:3196
+msgid "Category Filter"
+msgstr ""
+
+#: eventim.php:3201
+msgid "Grid Type"
+msgstr ""
+
+#: eventim.php:3203
+msgid "Classic"
+msgstr ""
+
+#: eventim.php:3204
+msgid "Tiled"
+msgstr ""
+
+#: eventim.php:3206 eventim.php:3253
+msgid "Grid Gap"
+msgstr ""
+
+#: eventim.php:3208 eventim.php:3255
+msgid "0"
+msgstr ""
+
+#: eventim.php:3209 eventim.php:3256
+msgid "1"
+msgstr ""
+
+#: eventim.php:3210 eventim.php:3257
+msgid "2"
+msgstr ""
+
+#: eventim.php:3215 eventim.php:3262
+msgid "7"
+msgstr ""
+
+#: eventim.php:3216 eventim.php:3263
+msgid "8"
+msgstr ""
+
+#: eventim.php:3217 eventim.php:3264
+msgid "9"
+msgstr ""
+
+#: eventim.php:3218 eventim.php:3265
+msgid "10"
+msgstr ""
+
+#: eventim.php:3219 eventim.php:3266
+msgid "15"
+msgstr ""
+
+#: eventim.php:3220 eventim.php:3267
+msgid "20"
+msgstr ""
+
+#: eventim.php:3222
+msgid "Tiled Format"
+msgstr ""
+
+#: eventim.php:3223
+msgid "Show Title in Tiles"
+msgstr ""
+
+#: eventim.php:3233
+msgid "Scroll Loading"
+msgstr ""
+
+#: eventim.php:3238
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: eventim.php:3248
+msgid "Grid Gallery"
+msgstr ""
+
+#: eventim.php:3248
+msgid "Responsive grid gallery with lightbox."
+msgstr ""
+
+#: eventim.php:3250
+msgid "Images"
+msgstr ""
+
+#: eventim.php:3251
+msgid "Format (e.g. 21,11,12)"
+msgstr ""
+
+#: eventim.php:3276
+msgid "Links (separated by new line)"
+msgstr ""
+
+#: eventim.php:3282
+msgid "Price List"
+msgstr ""
+
+#: eventim.php:3282
+msgid "Price List element"
+msgstr ""
+
+#: eventim.php:3285
+msgid "Subtitle"
+msgstr ""
+
+#: eventim.php:3286
+msgid "Sticker Text"
+msgstr ""
+
+#: eventim.php:3287
+msgid "Currency"
+msgstr ""
+
+#: eventim.php:3288
+msgid "Price"
+msgstr ""
+
+#: eventim.php:3289
+msgid "Items"
+msgstr ""
+
+#: eventim.php:3311
+msgid "BT Gallery"
+msgstr ""
+
+#: eventim.php:3312
+msgid "Gallery widget."
+msgstr ""
+
+#: eventim.php:3331
+msgid "Gallery"
+msgstr ""
+
+#: eventim.php:3335 eventim.php:3390 eventim.php:3504 eventim.php:3884
+#: eventim.php:3953 eventim.php:4034 eventim.php:4215
+msgid "Title:"
+msgstr ""
+
+#: eventim.php:3339
+msgid "List of image IDs (comma-separated):"
+msgstr ""
+
+#: eventim.php:3364
+msgid "BT Text Image"
+msgstr ""
+
+#: eventim.php:3365
+msgid "Text with image."
+msgstr ""
+
+#: eventim.php:3394
+msgid "Image IDs:"
+msgstr ""
+
+#: eventim.php:3398 eventim.php:3508
+msgid "Text:"
+msgstr ""
+
+#: eventim.php:3424
+msgid "BT Icon"
+msgstr ""
+
+#: eventim.php:3425
+msgid "Icon with text and link."
+msgstr ""
+
+#: eventim.php:3489
+msgid "Icon:"
+msgstr ""
+
+#: eventim.php:3512
+msgid "URL or slug:"
+msgstr ""
+
+#: eventim.php:3517
+msgid "Show in accent color"
+msgstr ""
+
+#: eventim.php:3520
+msgid "Target:"
+msgstr ""
+
+#: eventim.php:3561
+msgid "BT Weather"
+msgstr ""
+
+#: eventim.php:3562
+msgid "Weather widget."
+msgstr ""
+
+#: eventim.php:3591
+msgid "Latitude:"
+msgstr ""
+
+#: eventim.php:3595
+msgid "Longitude:"
+msgstr ""
+
+#: eventim.php:3599
+msgid "Temperature unit:"
+msgstr ""
+
+#: eventim.php:3602
+msgid "Celsius"
+msgstr ""
+
+#: eventim.php:3602
+msgid "Fahrenheit"
+msgstr ""
+
+#: eventim.php:3614
+msgid "Type:"
+msgstr ""
+
+#: eventim.php:3617 eventim.php:3663
+msgid "Now"
+msgstr ""
+
+#: eventim.php:3617 eventim.php:3667
+msgid "Today"
+msgstr ""
+
+#: eventim.php:3617 eventim.php:3671
+msgid "Tomorrow"
+msgstr ""
+
+#: eventim.php:3693
+msgid "BT Time"
+msgstr ""
+
+#: eventim.php:3694
+msgid "Time widget."
+msgstr ""
+
+#: eventim.php:3722
+msgid "Time zone:"
+msgstr ""
+
+#: eventim.php:3741
+msgid "Place name:"
+msgstr ""
+
+#: eventim.php:3745
+msgid "Time notation:"
+msgstr ""
+
+#: eventim.php:3751
+msgid "24 hours"
+msgstr ""
+
+#: eventim.php:3751
+msgid "12 hours"
+msgstr ""
+
+#: eventim.php:3820
+msgid "BT Recent Posts"
+msgstr ""
+
+#: eventim.php:3821
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: eventim.php:3880
+msgid "Recent Posts"
+msgstr ""
+
+#: eventim.php:3888
+msgid "Number of posts:"
+msgstr ""
+
+#: eventim.php:3914
+msgid "BT Recent Comments"
+msgstr ""
+
+#: eventim.php:3915
+msgid "Recent comments with avatars."
+msgstr ""
+
+#: eventim.php:3949
+msgid "Recent Comments"
+msgstr ""
+
+#: eventim.php:3957
+msgid "Number of comments:"
+msgstr ""
+
+#: eventim.php:3984
+msgid "BT Instagram"
+msgstr ""
+
+#: eventim.php:3985
+msgid "Instagram photos."
+msgstr ""
+
+#: eventim.php:4027
+msgid "Instagram"
+msgstr ""
+
+#: eventim.php:4038
+msgid "Number of photos:"
+msgstr ""
+
+#: eventim.php:4042
+msgid "User ID:"
+msgstr ""
+
+#: eventim.php:4046
+msgid "Client ID:"
+msgstr ""
+
+#: eventim.php:4050 eventim.php:4239
+msgid "Access token:"
+msgstr ""
+
+#: eventim.php:4157
+msgid "BT Twitter"
+msgstr ""
+
+#: eventim.php:4158
+msgid "Twitter feed."
+msgstr ""
+
+#: eventim.php:4219
+msgid "Number of tweets:"
+msgstr ""
+
+#: eventim.php:4223
+msgid "Username:"
+msgstr ""
+
+#: eventim.php:4227
+msgid "Cache (minutes):"
+msgstr ""
+
+#: eventim.php:4231
+msgid "Consumer key:"
+msgstr ""
+
+#: eventim.php:4235
+msgid "Consumer secret:"
+msgstr ""
+
+#: eventim.php:4243
+msgid "Access token secret:"
+msgstr ""
+
+#: eventim.php:4300
+msgid "Portfolio Item"
+msgstr ""
+
+#: eventim.php:4309
+msgid "Portfolio Categories"
+msgstr ""
+
+#: section_anims.php:7
+msgid "Move to left | from right"
+msgstr ""
+
+#: section_anims.php:8
+msgid "Move to right | from left"
+msgstr ""
+
+#: section_anims.php:9
+msgid "Move to top | from bottom"
+msgstr ""
+
+#: section_anims.php:10
+msgid "Move to bottom | from top"
+msgstr ""
+
+#: section_anims.php:11
+msgid "Fade | from right"
+msgstr ""
+
+#: section_anims.php:12
+msgid "Fade | from left"
+msgstr ""
+
+#: section_anims.php:13
+msgid "Fade | from bottom"
+msgstr ""
+
+#: section_anims.php:14
+msgid "Fade | from top"
+msgstr ""
+
+#: section_anims.php:15
+msgid "Fade left | Fade right"
+msgstr ""
+
+#: section_anims.php:16
+msgid "Fade right | Fade left"
+msgstr ""
+
+#: section_anims.php:17
+msgid "Fade top | Fade bottom"
+msgstr ""
+
+#: section_anims.php:18
+msgid "Fade bottom | Fade top"
+msgstr ""
+
+#: section_anims.php:19
+msgid "Different easing | from right"
+msgstr ""
+
+#: section_anims.php:20
+msgid "Different easing | from left"
+msgstr ""
+
+#: section_anims.php:21
+msgid "Different easing | from bottom"
+msgstr ""
+
+#: section_anims.php:22
+msgid "Different easing | from top"
+msgstr ""
+
+#: section_anims.php:23
+msgid "Scale down | from right"
+msgstr ""
+
+#: section_anims.php:24
+msgid "Scale down | from left"
+msgstr ""
+
+#: section_anims.php:25
+msgid "Scale down | from bottom"
+msgstr ""
+
+#: section_anims.php:26
+msgid "Scale down | from top"
+msgstr ""
+
+#: section_anims.php:27
+msgid "Scale down | scale down"
+msgstr ""
+
+#: section_anims.php:28
+msgid "Scale up | scale up"
+msgstr ""
+
+#: section_anims.php:29
+msgid "Move to left | scale up"
+msgstr ""
+
+#: section_anims.php:30
+msgid "Move to right | scale up"
+msgstr ""
+
+#: section_anims.php:31
+msgid "Move to top | scale up"
+msgstr ""
+
+#: section_anims.php:32
+msgid "Move to bottom | scale up"
+msgstr ""
+
+#: section_anims.php:33
+msgid "Scale down | scale up"
+msgstr ""
+
+#: section_anims.php:34
+msgid "Glue left | from right"
+msgstr ""
+
+#: section_anims.php:35
+msgid "Glue right | from left"
+msgstr ""
+
+#: section_anims.php:36
+msgid "Glue bottom | from top"
+msgstr ""
+
+#: section_anims.php:37
+msgid "Glue top | from bottom"
+msgstr ""
+
+#: section_anims.php:38
+msgid "Flip right"
+msgstr ""
+
+#: section_anims.php:39
+msgid "Flip left"
+msgstr ""
+
+#: section_anims.php:40
+msgid "Flip top"
+msgstr ""
+
+#: section_anims.php:41
+msgid "Flip bottom"
+msgstr ""
+
+#: section_anims.php:42
+msgid "Push left | from right"
+msgstr ""
+
+#: section_anims.php:43
+msgid "Push right | from left"
+msgstr ""
+
+#: section_anims.php:44
+msgid "Push top | from bottom"
+msgstr ""
+
+#: section_anims.php:45
+msgid "Push bottom | from top"
+msgstr ""
+
+#: section_anims.php:46
+msgid "Push left | pull right"
+msgstr ""
+
+#: section_anims.php:47
+msgid "Push right | pull left"
+msgstr ""
+
+#: section_anims.php:48
+msgid "Push top | pull bottom"
+msgstr ""
+
+#: section_anims.php:49
+msgid "Push bottom | pull top"
+msgstr ""
+
+#: section_anims.php:50
+msgid "Fold left | from right"
+msgstr ""
+
+#: section_anims.php:51
+msgid "Fold right | from left"
+msgstr ""
+
+#: section_anims.php:52
+msgid "Fold top | from bottom"
+msgstr ""
+
+#: section_anims.php:53
+msgid "Fold bottom | from top"
+msgstr ""
+
+#: section_anims.php:54
+msgid "Move to right | unfold left"
+msgstr ""
+
+#: section_anims.php:55
+msgid "Move to left | unfold right"
+msgstr ""
+
+#: section_anims.php:56
+msgid "Move to bottom | unfold top"
+msgstr ""
+
+#: section_anims.php:57
+msgid "Move to top | unfold bottom"
+msgstr ""
+
+#: section_anims.php:58
+msgid "Room to left"
+msgstr ""
+
+#: section_anims.php:59
+msgid "Room to right"
+msgstr ""
+
+#: section_anims.php:60
+msgid "Room to top"
+msgstr ""
+
+#: section_anims.php:61
+msgid "Room to bottom"
+msgstr ""
+
+#: section_anims.php:62
+msgid "Cube to left"
+msgstr ""
+
+#: section_anims.php:63
+msgid "Cube to right"
+msgstr ""
+
+#: section_anims.php:64
+msgid "Cube to top"
+msgstr ""
+
+#: section_anims.php:65
+msgid "Cube to bottom"
+msgstr ""
+
+#: section_anims.php:66
+msgid "Carousel to left"
+msgstr ""
+
+#: section_anims.php:67
+msgid "Carousel to right"
+msgstr ""
+
+#: section_anims.php:68
+msgid "Carousel to top"
+msgstr ""
+
+#: section_anims.php:69
+msgid "Carousel to bottom"
+msgstr ""
+
+#: section_anims.php:70
+msgid "Sides"
+msgstr ""
+
+#: section_anims.php:71
+msgid "Slide"
+msgstr ""

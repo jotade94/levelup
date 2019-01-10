@@ -1,0 +1,27 @@
+/* 
+Theme Name: LevelUp-child
+Theme URI: https://www.levelupdesarrollo.com/
+Template:LevelUP;
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("css/base.css");
+@import url("css/typography.css");
+@import url("css/bootstrap.grid.css");
+@import url("css/grid.css");
+@import url("css/template.css");
+@import url("css/header.css");
+@import url("css/footer.css");
+@import url("css/post.css");
+@import url("css/elements.css");
+@import url("css/animations.css");
+@import url("css/woocommerce.css");
+@import url("css/costcalc.css");
+@import url("css/screens.css");
+@import url("css/woocommerce-screens.css");
+
+.headline b.animate.animated {
+color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
